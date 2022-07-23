@@ -14,6 +14,5 @@ Live: https://luisdgza.github.io/simpleDigitalClock/
 ### Built with
 
 - HTML
-  
+- JS
 - CSS
-  - Bootstrap 4
